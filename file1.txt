@@ -1,2 +1,2 @@
 This is the File 1
-Alice has added a different second line at file1
+Paul fixed the second line of file1
