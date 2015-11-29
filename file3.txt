@@ -1,2 +1,3 @@
 This is the File 3
 Paul has added a second line at file3
+Paul has added a third line at file3

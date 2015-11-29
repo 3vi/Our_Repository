@@ -1,1 +1,2 @@
 This is the File 2
+Paul has added a second line at file2
