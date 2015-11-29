@@ -1,1 +1,2 @@
 This is the File 1
+Alice has added a different second line at file1
